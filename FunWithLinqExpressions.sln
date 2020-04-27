@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWithLinqExpressions", "FunWithLinqExpressions\FunWithLinqExpressions.csproj", "{3FEB590C-E449-4CAC-89E5-8B1778C4DDA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FEB590C-E449-4CAC-89E5-8B1778C4DDA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FEB590C-E449-4CAC-89E5-8B1778C4DDA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FEB590C-E449-4CAC-89E5-8B1778C4DDA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FEB590C-E449-4CAC-89E5-8B1778C4DDA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3F1A687-1D5D-4028-AD0C-231A5A1B13F5}
+	EndGlobalSection
+EndGlobal
